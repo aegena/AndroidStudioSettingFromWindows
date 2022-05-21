@@ -1,4 +1,17 @@
 <application>
+  <component name="AppStorage">
+    <histories>
+      <item value="State" />
+      <item value="Stateful Widget" />
+      <item value="Stateless Widget" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="2" />
+        <entry key="ENGLISH" value="3" />
+      </map>
+    </option>
+  </component>
   <component name="Cache">
     <option name="lastTrimTime" value="1653036993132" />
   </component>
