@@ -1,14 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="HTTP Host Availability (the doctor check crashed)" />
       <item value="State" />
       <item value="Stateful Widget" />
       <item value="Stateless Widget" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="3" />
+        <entry key="CHINESE" value="3" />
+        <entry key="ENGLISH" value="4" />
       </map>
     </option>
   </component>
