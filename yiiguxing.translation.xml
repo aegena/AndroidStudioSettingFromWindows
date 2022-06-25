@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="enqueue" />
+      <item value="behavior" />
       <item value="HTTP Host Availability (the doctor check crashed)" />
       <item value="State" />
       <item value="Stateful Widget" />
@@ -8,12 +10,12 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3" />
-        <entry key="ENGLISH" value="4" />
+        <entry key="CHINESE" value="5" />
+        <entry key="ENGLISH" value="6" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1653036993132" />
+    <option name="lastTrimTime" value="1656150153016" />
   </component>
 </application>
