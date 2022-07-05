@@ -1,9 +1,12 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="598" />
+    <option name="newTranslationDialogCollapseDictViewer" value="false" />
+    <option name="newTranslationDialogWidth" value="596" />
     <option name="newTranslationDialogX" value="538" />
-    <option name="newTranslationDialogY" value="299" />
+    <option name="newTranslationDialogY" value="171" />
     <histories>
+      <item value="组合&#10;" />
+      <item value="z" />
       <item value="组件&#10;" />
       <item value="remember" />
       <item value="Template View" />
@@ -21,8 +24,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="18" />
-        <entry key="ENGLISH" value="19" />
+        <entry key="CHINESE" value="24" />
+        <entry key="ENGLISH" value="25" />
       </map>
     </option>
   </component>
