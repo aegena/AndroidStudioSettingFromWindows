@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="538" />
     <option name="newTranslationDialogY" value="171" />
     <histories>
+      <item value="until" />
       <item value="组合&#10;" />
       <item value="z" />
       <item value="组件&#10;" />
@@ -24,8 +25,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="24" />
-        <entry key="ENGLISH" value="25" />
+        <entry key="CHINESE" value="25" />
+        <entry key="ENGLISH" value="26" />
       </map>
     </option>
   </component>
