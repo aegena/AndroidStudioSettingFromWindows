@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
+    <option name="newTranslationDialogWidth" value="598" />
+    <option name="newTranslationDialogX" value="538" />
+    <option name="newTranslationDialogY" value="299" />
     <histories>
+      <item value="组件&#10;" />
       <item value="remember" />
       <item value="Template View" />
       <item value="a class to manipulate colors where performance is a concern" />
@@ -17,12 +21,12 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="12" />
-        <entry key="ENGLISH" value="13" />
+        <entry key="CHINESE" value="18" />
+        <entry key="ENGLISH" value="19" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1656150153016" />
+    <option name="lastTrimTime" value="1656993350251" />
   </component>
 </application>
