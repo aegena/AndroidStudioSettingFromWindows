@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="538" />
     <option name="newTranslationDialogY" value="150" />
     <histories>
+      <item value="AT MOST" />
+      <item value="have you declared this activity in your AndroidManifest.xml" />
       <item value="第二&#10;" />
       <item value="第二" />
       <item value="compute Current Velocity" />
@@ -31,8 +33,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="34" />
-        <entry key="ENGLISH" value="35" />
+        <entry key="CHINESE" value="36" />
+        <entry key="ENGLISH" value="37" />
       </map>
     </option>
   </component>
