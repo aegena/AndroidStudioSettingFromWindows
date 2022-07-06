@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="538" />
     <option name="newTranslationDialogY" value="171" />
     <histories>
+      <item value="compute Current Velocity" />
+      <item value="Velocity Tracker" />
       <item value="compute Scroll Offset" />
       <item value="on Intercept Hover Event" />
       <item value="until" />
@@ -27,8 +29,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="27" />
-        <entry key="ENGLISH" value="28" />
+        <entry key="CHINESE" value="29" />
+        <entry key="ENGLISH" value="30" />
       </map>
     </option>
   </component>
