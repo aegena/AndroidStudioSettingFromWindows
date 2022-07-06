@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="538" />
     <option name="newTranslationDialogY" value="171" />
     <histories>
+      <item value="compute Scroll Offset" />
       <item value="on Intercept Hover Event" />
       <item value="until" />
       <item value="组合&#10;" />
@@ -26,8 +27,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="26" />
-        <entry key="ENGLISH" value="27" />
+        <entry key="CHINESE" value="27" />
+        <entry key="ENGLISH" value="28" />
       </map>
     </option>
   </component>
