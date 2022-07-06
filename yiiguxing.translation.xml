@@ -1,10 +1,12 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogWidth" value="596" />
+    <option name="newTranslationDialogWidth" value="594" />
     <option name="newTranslationDialogX" value="538" />
-    <option name="newTranslationDialogY" value="171" />
+    <option name="newTranslationDialogY" value="150" />
     <histories>
+      <item value="第二&#10;" />
+      <item value="第二" />
       <item value="compute Current Velocity" />
       <item value="Velocity Tracker" />
       <item value="compute Scroll Offset" />
@@ -29,8 +31,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="29" />
-        <entry key="ENGLISH" value="30" />
+        <entry key="CHINESE" value="34" />
+        <entry key="ENGLISH" value="35" />
       </map>
     </option>
   </component>
