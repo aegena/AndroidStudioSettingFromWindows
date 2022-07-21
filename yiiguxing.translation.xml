@@ -1,0 +1,44 @@
+<application>
+  <component name="AppStorage">
+    <option name="newTranslationDialogCollapseDictViewer" value="false" />
+    <option name="newTranslationDialogWidth" value="594" />
+    <option name="newTranslationDialogX" value="538" />
+    <option name="newTranslationDialogY" value="150" />
+    <histories>
+      <item value="AT MOST" />
+      <item value="have you declared this activity in your AndroidManifest.xml" />
+      <item value="第二&#10;" />
+      <item value="第二" />
+      <item value="compute Current Velocity" />
+      <item value="Velocity Tracker" />
+      <item value="compute Scroll Offset" />
+      <item value="on Intercept Hover Event" />
+      <item value="until" />
+      <item value="组合&#10;" />
+      <item value="z" />
+      <item value="组件&#10;" />
+      <item value="remember" />
+      <item value="Template View" />
+      <item value="a class to manipulate colors where performance is a concern" />
+      <item value="Color Property" />
+      <item value="is Accessibility Enabled" />
+      <item value="internal" />
+      <item value="calculate Delay" />
+      <item value="enqueue" />
+      <item value="behavior" />
+      <item value="HTTP Host Availability (the doctor check crashed)" />
+      <item value="State" />
+      <item value="Stateful Widget" />
+      <item value="Stateless Widget" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="36" />
+        <entry key="ENGLISH" value="37" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1656993350251" />
+  </component>
+</application>
