@@ -1,10 +1,12 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogWidth" value="594" />
+    <option name="newTranslationDialogWidth" value="1016" />
     <option name="newTranslationDialogX" value="538" />
     <option name="newTranslationDialogY" value="150" />
     <histories>
+      <item value="Maximum file size (in KiB) the IDE is able to open." />
+      <item value="# Maximum file size (in KiB) IDE should provide code assistance for.&#10;# The larger file is the slower its editor works and higher overall system memory requirements are&#10;# if code assistance is enabled. Remove this property or set to very large number if you need&#10;# code assistance for any files available regardless of their size." />
       <item value="AT MOST" />
       <item value="have you declared this activity in your AndroidManifest.xml" />
       <item value="第二&#10;" />
@@ -33,12 +35,12 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="36" />
-        <entry key="ENGLISH" value="37" />
+        <entry key="CHINESE" value="38" />
+        <entry key="ENGLISH" value="38" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1656993350251" />
+    <option name="lastTrimTime" value="1658458095487" />
   </component>
 </application>
